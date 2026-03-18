@@ -15,9 +15,11 @@
 
 ## About me
 
-I'm an AI Engineer with hands-on experience building end-to-end deep learning pipelines — from raw data preprocessing through model training, evaluation, and deployment. My work spans **computer vision**, **medical imaging**, and **multi-modal inference**.
+Xin chào, I’m Anh Thu Tran (or Zoey) 👋☺️ I’m a recent Data Science graduated with a passion for computer vision, problem-solving, and diving deep into neural networks and deep learning.
 
-What sets me apart: I don't just run notebooks — I've published two peer-reviewed papers and built models that reach **91–95% accuracy** on real medical datasets.
+From academic research to personal projects, I’ve worked on image analysis and model evaluation. Those experiences that strengthened my skills in teamwork, creativity, and continuous learning.
+
+I believe in turning data into gold - uncovering stories and insights that truly matter. As a lifelong learner, I’m always sharpening my skills to keep pace with the fast-changing world of data science and AI. For me, every dataset is a puzzle waiting to be solved, and I’m here to make it count 💪🏻
 
 Currently exploring **LLM/RAG systems** and **MLOps** to bridge research-grade models with production environments.
 
