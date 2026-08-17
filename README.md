@@ -6,7 +6,7 @@
 
 📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 anhthutran.tnat@gmail.com &nbsp;|&nbsp; 🎓 B.S. Data Science — Van Lang University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-thu-tran-001064276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tn-anhthu/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anhthutran.tnat@gmail.com)
 
 </div>
@@ -15,11 +15,11 @@
 
 ## About me
 
-Xin chào, I’m Anh Thu Tran (or Zoey) 👋☺️ I’m a recent Data Science graduated with a passion for computer vision, problem-solving, and diving deep into neural networks and deep learning.
+Xin chào, I'm Anh Thu Tran (or Zoey) 👋☺️ I'm a recent Data Science graduated with a passion for computer vision, problem-solving, and diving deep into neural networks and deep learning.
 
-From academic research to personal projects, I’ve worked on image analysis and model evaluation. Those experiences that strengthened my skills in teamwork, creativity, and continuous learning.
+From academic research to personal projects, I've worked on image analysis and model evaluation. Those experiences that strengthened my skills in teamwork, creativity, and continuous learning.
 
-I believe in turning data into gold - uncovering stories and insights that truly matter. As a lifelong learner, I’m always sharpening my skills to keep pace with the fast-changing world of data science and AI. For me, every dataset is a puzzle waiting to be solved, and I’m here to make it count 💪🏻
+I believe in turning data into gold - uncovering stories and insights that truly matter. As a lifelong learner, I'm always sharpening my skills to keep pace with the fast-changing world of data science and AI. For me, every dataset is a puzzle waiting to be solved, and I'm here to make it count 💪🏻
 
 Currently exploring **LLM/RAG systems** and **MLOps** to bridge research-grade models with production environments.
 
@@ -48,9 +48,13 @@ End-to-end pipeline on CT scan DICOM images using transfer learning with pre-tra
 Fuzzy clustering + Naïve Bayes with 64 GLCM texture features · **95%+ accuracy** · Published in peer-reviewed journal
 `MATLAB` `Fuzzy Clustering` `Medical Imaging` `Feature Engineering`
 
-### 📦 [Beverage Detection — YOLOv8 + CLIP](https://github.com/tn-anhthu)
-Two-stage inference: YOLO for localization + CLIP zero-shot classification for context disambiguation · Edge/fog deployment ready
-`Python` `YOLOv8` `CLIP` `OpenCV` `Multi-modal`
+### 🏬 [ShelfSense – AI-Assisted Shelf Inventory Estimation](https://github.com/tn-anhthu/shelf-stock-monitoring)
+Computer vision pipeline that detects products on a shelf or checkout table from a photo and generates a digital invoice + inventory estimate in JSON · in-progress solo project
+`Python` `YOLOv8` `CLIP` `Autodistill` `Computer Vision`
+
+### 📄 [PaperPulse — AI Literature Review Assistant](https://drive.google.com/file/d/1r3Rb1zpoWV_X57G6PQNucYw9WXVMUGaf/view?usp=drive_link)
+LLM + RAG tool for academic research-gap detection, built on Semantic Scholar and OpenAlex data · citation-fabrication detection verified at 100% accuracy across manual stress tests · repo is private, demo video attached
+`Python` `LLM` `RAG` `NLP`
 
 ### 📈 [Zara Revenue Forecasting](https://github.com/tn-anhthu/zara-sales-project)
 Pre-launch revenue prediction with Random Forest · **R² = 0.975**, MAE ~$2,674 (~6.4% error)
