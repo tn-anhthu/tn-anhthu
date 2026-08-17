@@ -4,7 +4,7 @@
 
 **AI Engineer · Data Scientist · Published Researcher**
 
-📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 anhthutran.tnat@gmail.com &nbsp;|&nbsp; 🎓 B.S. Data Science — Van Lang University
+📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 📧 anhthutran.tnat@gmail.com &nbsp;|&nbsp; 🎓 B.S. Data Science — VLU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tn-anhthu/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anhthutran.tnat@gmail.com)
@@ -83,16 +83,6 @@ Pre-launch revenue prediction with Random Forest · **R² = 0.975**, MAE ~$2,674
 - 🥈 **2nd Prize** — Technology & Engineering, Van Lang Student Research Conference 2023–2024
 - 🏅 **Semifinalist** — Euréka 2024 National Student Research Award
 - 🎓 **Scholarship recipient** — 100% (2021), 50% (2024), 25% (2023, 2025)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anh Thu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tn-anhthu&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
